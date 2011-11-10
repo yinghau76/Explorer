@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">File System Explorer</string>
+    <string name="no_files">This directory is empty</string>
+    <string name="on_top">[Back to Top]</string> 
+</resources>
